@@ -3,28 +3,30 @@ An integrative approach combining cross-linking data and evolutionary couplings 
 
 Status: in progress
 
-External software
+#External software
+
 Blast https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download
-
+HADDOCK https://www.bonvinlab.org/software/haddock2.4/download/
 TOPOLINK http://leandro.iqm.unicamp.br/topolink/download.shtml
-
 PyMol https://pymol.org/2/
-
 Alphafold Protein Structrue Database https://alphafold.ebi.ac.uk/
-
 Alphafold https://github.com/deepmind/alphafold
 
-HADDOCK https://www.bonvinlab.org/software/haddock2.4/download/
 
-Databases
+
+#Databases
+UniProt: https://www.uniprot.org
+PDB: PDB: Homepagehttps://www.rcsb.org
+
+
 Documentation and tutorials
 Please refer to ... on how to run jobs ...
 
-License
+#License
 XLEC is available under an MIT license 
 
-References
+#References
 
-Contributors
+#Contributors
 XLEC is developed by Hadeer Elhabashy in the Kohlbacher Lab, Max Planck Institute for Biology and Tuebingen University
 
