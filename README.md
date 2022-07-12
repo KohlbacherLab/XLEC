@@ -6,17 +6,23 @@ Status: in progress
 ## External software
 
 Blast https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download
+
 HADDOCK https://www.bonvinlab.org/software/haddock2.4/download/
+
 TOPOLINK http://leandro.iqm.unicamp.br/topolink/download.shtml
+
 PyMol https://pymol.org/2/
+
 Alphafold Protein Structrue Database https://alphafold.ebi.ac.uk/
+
 Alphafold https://github.com/deepmind/alphafold
 
 
 
 ## Databases
 UniProt: https://www.uniprot.org
-PDB: PDB: Homepagehttps://www.rcsb.org
+
+PDB: Homepagehttps://www.rcsb.org
 
 
 ## Documentation and tutorials
