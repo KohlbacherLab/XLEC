@@ -9,6 +9,8 @@ Blast https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Down
 
 HADDOCK https://www.bonvinlab.org/software/haddock2.4/download/
 
+pdb-tools http://www.bonvinlab.org/pdb-tools/
+
 TOPOLINK http://leandro.iqm.unicamp.br/topolink/download.shtml
 
 PyMol https://pymol.org/2/
