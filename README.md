@@ -28,7 +28,7 @@ PDB: Homepagehttps://www.rcsb.org
 
 
 ## Documentation and tutorials
-Please refer to ... on how to run jobs ...
+in progress
 
 ## License
 XLEC is available under an MIT license 
