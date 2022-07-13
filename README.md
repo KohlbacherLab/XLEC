@@ -25,7 +25,7 @@ Naccess http://www.bioinf.manchester.ac.uk/naccess/
 ## Databases
 UniProt: https://www.uniprot.org
 
-PDB: Homepagehttps://www.rcsb.org
+PDB: https://www.rcsb.org
 
 
 ## Documentation and tutorials
