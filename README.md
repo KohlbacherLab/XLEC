@@ -1,8 +1,6 @@
 # XLEC
 An integrative approach combining cross-linking data and evolutionary couplings for large-scale prediction and modeling of protein-protein interactions. 
 
-Status: in progress
-
 ## External software
 
 Blast https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download
